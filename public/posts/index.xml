@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Angers Blog</title>
-    <link>https://www.parch.fr/posts/</link>
-    <description>Recent content in Posts on Angers Blog</description>
+    <title>Posts on Parch Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Parch Blog</description>
     <generator>Hugo</generator>
-    <language>fr</language>
+    <language>fr-fr</language>
     <lastBuildDate>Mon, 27 May 2024 09:04:59 +0200</lastBuildDate>
-    <atom:link href="https://www.parch.fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://www.parch.fr/posts/my-first-post/</link>
+      <title>Premiers mots</title>
+      <link>http://localhost:1313/posts/premiers-mots/</link>
       <pubDate>Mon, 27 May 2024 09:04:59 +0200</pubDate>
-      <guid>https://www.parch.fr/posts/my-first-post/</guid>
-      <description>Introduction C&amp;rsquo;est un texte en gras, et celui ci est mis en avant. Si je devais un peu vous raconter ma vie, je dirai que c&amp;rsquo;est avant tout une question de rencontres.&#xA;Allez sur le site web Hugo !</description>
+      <guid>http://localhost:1313/posts/premiers-mots/</guid>
+      <description>Introduction C&amp;rsquo;est un texte en gras, et celui ci est mis en avant. Si je devais un peu vous raconter ma vie, je dirai que c&amp;rsquo;est avant tout une question de rencontres. Bon je mets un super paysage de chaud.&#xA;Et puis une petite vidéo de la mer. Ca raffraichit.&#xA;There should have been a video here but your browser does not seem to support it. Et pour tester le tout, un petit lien vers le maker de sites statiques.</description>
     </item>
   </channel>
 </rss>

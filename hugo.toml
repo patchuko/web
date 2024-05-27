@@ -1,5 +1,16 @@
 baseURL = 'https://www.parch.fr/'
-languageCode = 'fr'
-title = 'Angers Blog'
+languageCode = 'fr-fr'
+title = 'Parch Blog'
 theme = 'ananke'
 image = "/marek-piwnicki-7xHmMk08mRo-unsplash.jpg"
+
+
+[menu]
+    [[menu.main]]
+      name = 'Home'
+      pageRef='/'
+      weight = 10
+    [[menu.main]]
+      name = 'Blog'
+      pageRef='/posts/'
+      weight = 20
